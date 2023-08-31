@@ -69,7 +69,7 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
 ![image](https://github.com/swethamohanraj/Echoserver/assets/94228215/ef42f284-01fe-48c4-b731-46c544136191)
 
 ### CLIENT SIDE 
-<img width="865" alt="image" src="https://github.com/Monisha-11/Echoserver/assets/93427240/55175569-07ae-40ce-b338-44ed99cb8da3">
+![image](https://github.com/swethamohanraj/Echoserver/assets/94228215/e46bbe43-ae1c-4775-a261-dc991b5ff4c9)
 
 ## RESULT:
 The program is executed successfully
